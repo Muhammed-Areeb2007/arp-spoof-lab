@@ -1,5 +1,7 @@
 # ARP Spoofing Attack Demo + Mitigation Lab
 
+> ⚠️ **Disclaimer:** This project was built in an isolated lab environment for educational purposes only. All attacks were performed on VMs with no external network access. Do not use these techniques on networks you do not own.
+> 
 ## Overview
 Demonstrates a complete ARP cache poisoning → DNS spoofing → 
 credential harvesting attack chain in an isolated 3-VM lab, 
