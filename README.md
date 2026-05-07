@@ -33,12 +33,12 @@ fake MAC address mapping.
 
 <img width="464" height="173" alt="arp_detection" src="https://github.com/user-attachments/assets/bf1f505c-929b-487a-b23b-c4fa0412a076" />
 
-
 ## Mitigations Implemented
-| Mitigation | Effective? | Evidence |
-|---|---|---|
-| Static ARP entry | Yes | <img width="1439" height="528" alt="mitigation_static_arp" src="https://github.com/user-attachments/assets/4d56b711-367b-4596-ae15-3f0425096320" />
-|
+
+**Static ARP — Attack blocked while Ettercap is running:**
+
+<img width="800" alt="mitigation_static_arp" src="https://github.com/user-attachments/assets/4d56b711-367b-4596-ae15-3f0425096320" />
+
 
 ## Tools Used
 - Kali Linux (UTM, Apple Silicon)
