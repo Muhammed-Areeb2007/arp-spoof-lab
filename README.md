@@ -1,4 +1,4 @@
-# ARP Spoofing Attack Demo + Mitigation Lab
+# DNS Spoofing Attack Demo + Mitigation Lab
 
 > ⚠️ **Disclaimer:** This project was built in an isolated lab environment for educational purposes only. All attacks were performed on VMs with no external network access. Do not use these techniques on networks you do not own.
 > 
